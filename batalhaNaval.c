@@ -5,6 +5,8 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+
+    printf("desafio")
     // Nível Novato - Posicionamento dos Navios
     // Sugestão: Declare uma matriz bidimensional para representar o tabuleiro (Ex: int tabuleiro[5][5];).
     // Sugestão: Posicione dois navios no tabuleiro, um verticalmente e outro horizontalmente.
